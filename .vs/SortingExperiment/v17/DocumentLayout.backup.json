@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\sortingexperiment\\sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|solutionrelative:sortingexperiment\\sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|c:\\users\\or02df\\uhi\\dept of computer science - science of computing\\lessons\\2. computability\\new\\core\\sortingexperiment\\sortingexperiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|solutionrelative:sortingexperiment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\sortingexperiment\\inputgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|solutionrelative:sortingexperiment\\inputgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\sortingexperiment\\resultreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|solutionrelative:sortingexperiment\\resultreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\sortingexperiment\\experimentrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|solutionrelative:sortingexperiment\\experimentrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\sortingexperiment\\sortresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF0D9F1-3028-4A10-9370-3D44DB81AC24}|SortingExperiment\\SortingExperiment.csproj|solutionrelative:sortingexperiment\\sortresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultReporter.cs",
+              "DocumentMoniker": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\ResultReporter.cs",
+              "RelativeDocumentMoniker": "SortingExperiment\\ResultReporter.cs",
+              "ToolTip": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\ResultReporter.cs",
+              "RelativeToolTip": "SortingExperiment\\ResultReporter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:40:06.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExperimentRunner.cs",
+              "DocumentMoniker": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\ExperimentRunner.cs",
+              "RelativeDocumentMoniker": "SortingExperiment\\ExperimentRunner.cs",
+              "ToolTip": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\ExperimentRunner.cs",
+              "RelativeToolTip": "SortingExperiment\\ExperimentRunner.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:39:43.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortingAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\SortingAlgorithm.cs",
+              "RelativeDocumentMoniker": "SortingExperiment\\SortingAlgorithm.cs",
+              "ToolTip": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\SortingAlgorithm.cs",
+              "RelativeToolTip": "SortingExperiment\\SortingAlgorithm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:31:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\InputGenerator.cs",
+              "RelativeDocumentMoniker": "SortingExperiment\\InputGenerator.cs",
+              "ToolTip": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\InputGenerator.cs",
+              "RelativeToolTip": "SortingExperiment\\InputGenerator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:30:35.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortResult.cs",
+              "DocumentMoniker": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\SortResult.cs",
+              "RelativeDocumentMoniker": "SortingExperiment\\SortResult.cs",
+              "ToolTip": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\SortResult.cs",
+              "RelativeToolTip": "SortingExperiment\\SortResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:29:28.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\Program.cs",
+              "RelativeDocumentMoniker": "SortingExperiment\\Program.cs",
+              "ToolTip": "C:\\Users\\OR02DF\\UHI\\Dept of Computer Science - Science of Computing\\Lessons\\2. Computability\\New\\Core\\SortingExperiment\\SortingExperiment\\Program.cs",
+              "RelativeToolTip": "SortingExperiment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:29:09.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

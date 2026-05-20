@@ -1,0 +1,8 @@
+C:\Users\OR02DF\UHI\Dept of Computer Science - Science of Computing\Lessons\2. Computability\New\Core\SortingExperiment\SortingExperiment\bin\Debug\SortingExperiment.exe.config
+C:\Users\OR02DF\UHI\Dept of Computer Science - Science of Computing\Lessons\2. Computability\New\Core\SortingExperiment\SortingExperiment\bin\Debug\SortingExperiment.exe
+C:\Users\OR02DF\UHI\Dept of Computer Science - Science of Computing\Lessons\2. Computability\New\Core\SortingExperiment\SortingExperiment\bin\Debug\SortingExperiment.pdb
+C:\Users\OR02DF\UHI\Dept of Computer Science - Science of Computing\Lessons\2. Computability\New\Core\SortingExperiment\SortingExperiment\obj\Debug\SortingExperiment.csproj.AssemblyReference.cache
+C:\Users\OR02DF\UHI\Dept of Computer Science - Science of Computing\Lessons\2. Computability\New\Core\SortingExperiment\SortingExperiment\obj\Debug\SortingExperiment.csproj.CoreCompileInputs.cache
+C:\Users\OR02DF\UHI\Dept of Computer Science - Science of Computing\Lessons\2. Computability\New\Core\SortingExperiment\SortingExperiment\obj\Debug\SortingExperiment.exe
+C:\Users\OR02DF\UHI\Dept of Computer Science - Science of Computing\Lessons\2. Computability\New\Core\SortingExperiment\SortingExperiment\obj\Debug\SortingExperiment.pdb
+C:\Users\OR02DF\UHI\Dept of Computer Science - Science of Computing\Lessons\2. Computability\New\Core\SortingExperiment\SortingExperiment\obj\Debug\SortingExperiment.exe.config
